@@ -3,3 +3,5 @@
 - cookies are always well done
 - doesn't need to look at instructions
 - knows conversions instantaneously 
+
+- silicone fingertips
