@@ -1,3 +1,4 @@
 - Can Fly
 - Can Dance
-- Can Sing
+
+Weakness: Can't dance to bad beats
