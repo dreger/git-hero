@@ -1,5 +1,3 @@
-# Hello
-Hobbs.txt
-Youngstown Ohio 
-Football
-Mac & Cheese 
+# Mount Union GitHub Workshop
+
+Coming September 18th, 2019. 
