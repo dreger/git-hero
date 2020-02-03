@@ -2,3 +2,7 @@ powergurl
 - can fly through buildings
 - technology is her good friend
 - dogs love her
+
+Weakness:
+- Can be angered easily.
+- Loses control if angered.

@@ -2,3 +2,6 @@ Bakerman
 
 - Bakes amazing bread
 - Can know the weight of ingredients without weighing them 
+
+Weakness:
+- Can't handle heat past 400 degrees.

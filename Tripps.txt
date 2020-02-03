@@ -6,4 +6,4 @@ Powers:
 - Flash-like speed
 
 Weakness:
-- Anything that requires hands.
+- Will trip randomly.
