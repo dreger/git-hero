@@ -7,3 +7,4 @@ Powers:
 
 Weakness:
 - Anything that requires hands.
+- Icy roads
