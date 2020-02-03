@@ -9,3 +9,4 @@ superhero: Mural
 
 weakness
 distracted by shiny things.
+paintings always speak in their native tongue
