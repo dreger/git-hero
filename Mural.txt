@@ -5,7 +5,8 @@
 superhero: Mural
 - Can turn 2d paintings into 3d objects
 - Can give peope tattoos that give people super powers
-- Can talk to paintings of people.
+- Can vomit rainbow out of his mouth
+
 
 weakness
 distracted by shiny things.
