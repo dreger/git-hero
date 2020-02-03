@@ -2,12 +2,12 @@
 
 Example superhero: 
 
-Bakerman
+FighterMan
 
-- cookies are always well done
-- doesn't need to look at instructions
-- silicone fingertips
-
-weakness
-
-alergic to sugar
+Superpowers
+ - Strength
+ - Intuition
+ - Proficiency with any weapon upon picking it up
+ 
+ Weakness
+ - Strength randomly stops working while in use
