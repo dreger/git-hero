@@ -1,3 +1,13 @@
-# Mount Union GitHub Workshop
+# Walsh GitHub Workshop
 
-Coming September 18th, 2019. 
+Example superhero: 
+
+Bakerman
+
+- cookies are always well done
+- doesn't need to look at instructions
+- silicone fingertips
+
+weakness
+
+alergic to sugar
